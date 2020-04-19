@@ -1,14 +1,16 @@
 # GopherDocs
 
-[![](https://img.shields.io/badge/公众号-平也-brightgreen)](#公众号)
-[![](https://img.shields.io/badge/cnblogs-博客园-9cf)](https://www.cnblogs.com/pingyeaa)
-[![](https://img.shields.io/badge/juejin-掘金-blue)](https://juejin.im/user/5b879fd46fb9a019e643501e/posts)
-[![](https://img.shields.io/badge/csdn-CSDN-red)](https://blog.csdn.net/enoch612)
-[![](https://img.shields.io/badge/segmentfault-思否-green)](https://segmentfault.com/u/pingyeaa)
-[![](https://img.shields.io/badge/toutiao-今日头条-critical)](https://www.toutiao.com/c/user/99726624485/#mid=1632470920869900)
-[![](https://img.shields.io/badge/oschina-开源中国-blue)](https://my.oschina.net/u/4429381)
-[![](https://img.shields.io/badge/jianshu-简书-orange)](https://www.jianshu.com/u/b683a986d544)
-[![](https://img.shields.io/badge/zhihu-知乎-yellow)](https://www.zhihu.com/people/ma-li-ao-de-guan-dao)
+[![](https://img.shields.io/badge/公众号-中关村程序员-brightgreen)](#公众号)
+[![](https://img.shields.io/badge/cnblogs-博客园-9cf)](https://www.cnblogs.com/luolianxi/)
+[![](https://img.shields.io/badge/zhihu-博客-yellow)](https://blog.zhequtao.com/)
+[![](https://img.shields.io/badge/juejin-掘金-blue)](https://juejin.im/user/59c7c15b6fb9a00a554faf08/posts)
+[![](https://img.shields.io/badge/csdn-CSDN-red)](https://blog.csdn.net/luolianxi)
+[![](https://img.shields.io/badge/segmentfault-思否-green)](https://segmentfault.com/u/ajun_59c7c30d5a477)
+[![](https://img.shields.io/badge/toutiao-今日头条-critical)](https://www.toutiao.com/c/user/108011402636/#mid=1653887134795780)
+[![](https://img.shields.io/badge/oschina-开源中国-blue)](https://my.oschina.net/u/3421040)
+[![](https://img.shields.io/badge/jianshu-简书-orange)](https://www.jianshu.com/u/f5a7b66b1a03)
+[![](https://img.shields.io/badge/zhihu-知乎-yellow)](https://www.zhihu.com/people/a-jun-45-67/posts)
+
 
 GopherDocs技术分享.
 
