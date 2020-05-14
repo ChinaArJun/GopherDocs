@@ -1,1 +1,11 @@
 
+# go-news-set-2020
+## gopherDaily-2020-05-14
+- 1.Go 1.15中都有哪些变化？- https://lwn.net/SubscriberLink/820217/47ed80088c03b18d/
+- 2.如何处理Go中的错误？告诉你5条规则 - https://web3.coach/golang-how-to-handle-errors-five-rules
+- 3.在Go中什么时候使用指针 - https://medium.com/@meeusdylan/when-to-use-pointers-in-go-44c15fe04eac
+- 4.容器镜像仓库harbor发布2.0版本 - https://goharbor.io/blog/harbor-2.0/
+- 5.建立Go守护程序的四个步骤 - https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/
+- 6.jvm-mon：使用go重写的jvm监控工具 - https://github.com/ajermakovics/jvm-mon
+
+
