@@ -1,3 +1,16 @@
+# go-news-set-2020-06-20
+## gocn_news-2020-06-20
+- 1.通过内存分配来学习 go 中的机制 https://juejin.im/post/5eec0ae251882565c236bf4b
+
+- 2.暗黑破坏神 2 开源实现，基于 Go 开发引擎 https://github.com/OpenDiablo2/OpenDiablo2
+
+- 3.Go 使用 GroupCache 作为分布式缓存 https://www.mailgun.com/blog/golangs-superior-cache-solution-memcached-redis/
+
+- 4.使用 Go 和 VSCodium 开发 GTK 应用 https://lupyuen.github.io/pinetime-rust-mynewt/articles/gotk3
+
+- 5.GORM 2.0 Release Note (Draft) https://github.com/go-gorm/gorm/wiki/GORM-V2-Release-Note-Draft-CN
+
+
 # go-news-set-2020-06-19
 ## gocn_news-2020-06-19
 - 1.Go 算法模板 https://github.com/greyireland/algorithm-pattern
